@@ -1,7 +1,7 @@
 import { Box, Button, Typography } from "@mui/material";
 import { useState } from "react";
 import CssBaseline from '@mui/material/CssBaseline';
-import img from './assets/img.jpeg'
+import img from './assets/teste1.jpg'
 import img2 from './assets/img2.png'
 
 function App() {

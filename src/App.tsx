@@ -52,7 +52,7 @@ function App() {
         
         <Box sx={{ WebkitTextStrokeWidth: '1px', WebkitTextStrokeColor: '#FFF', display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center" }}>
         <Box
-        sx={{}}
+        sx={{width: '350px',}}
         component="img"
         alt="The house from the offer."
         src={img2}

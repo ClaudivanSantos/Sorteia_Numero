@@ -19,7 +19,7 @@ function App() {
       <div style={{
         background: `url(${img})`,
         backgroundRepeat: 'no-repeat',
-        width: '100%',
+        
         height: '100vh',
         backgroundSize: 'cover'
       }}>

@@ -33,7 +33,7 @@ function App() {
         alt="The house from the offer."
         src={img2}
       />
-          <Typography variant="h4" sx={{ fontWeight: 'bold' }}>
+          <Typography variant="h4" sx={{textAlign: "center", fontWeight: 'bold' }}>
             {Number === 0 ? "Clique no botão para sortear um numero" : "O numero sorteado foi o: "}
           </Typography>
           <Typography variant="h3" sx={{ fontWeight: 'bold' }}>

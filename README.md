@@ -18,7 +18,7 @@
 
 ## 💻 Projeto
 
-O Whatch.me é um projeto realizado para um sorteio de rifa de uma sanfona
+O Sorteia Numero é um projeto realizado para um sorteio de rifa de uma sanfona
 
 ## 🤝 Como executar
 

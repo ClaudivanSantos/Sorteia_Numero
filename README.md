@@ -14,7 +14,7 @@
 
 <img width="100%" src=".github/soteianumero.png"  alt="Captura-de-tela-2022-03-16-083320">
 
-## 🔗 [Link](/https://vercel.com/claudivansantos/sorteia-numero)
+## 🔗 [Link](https://vercel.com/claudivansantos/sorteia-numero)
 
 ## 💻 Projeto
 
